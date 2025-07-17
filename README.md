@@ -4,7 +4,7 @@ Smart Cost Estimator is a full-stack web application that analyzes real-world co
 
 The goal of this project is to help users make informed decisions when choosing a ride service by providing an estimate of the cost beforehand—based on patterns and average pricing data collected across the platforms.
 
-Project Highlights:
+🧠 Project Highlights:
 
 1) Data Analysis: Real ride fare data from Ola, Uber, and Namma Yatri was analyzed to find average costs per kilometer and per minute of travel.
 2) Machine Learning: A trained model predicts ride fares using average metrics and user input (distance & time).
